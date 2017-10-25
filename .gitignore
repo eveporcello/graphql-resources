@@ -1,0 +1,26 @@
+package-lock.json
+
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+.idea/
+coverage/
